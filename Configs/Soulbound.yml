@@ -1,0 +1,36 @@
+## Max Level for this enchantment
+MaxLevel: 5
+
+## Description for this enchantment
+Description: |-
+  §8You will keep the item when ever you die.
+  §8Every time you die this enchantment will be downgraded
+
+  §eApplicable on §fTools §e, §fWeapons §e, and §fArmors
+  §cConflicts with §fMending
+
+## Multiplier used by anvil, Don't remove it, The maximum is 8
+## For example to enchant an item with level 5 of this enchantment from a book, You need 4*5=20 levels
+## To enchant an item with level 5 of this from another item you need 8*5=40 levels
+Multiplier:
+  Item: 8
+  Book: 4
+
+## Items list that this enchant can be added to
+## You can define custom list in main config file
+## ARMORES is same with ARMORS, It is added due to a misspell fixed in 2.1
+Applicable:
+  - SWORDS
+  - AXES
+  - SHOVELS
+  - PICKAXES
+  - BOW
+  - CROSSBOW
+  - TRIDENT
+  - ARMORS
+  - ARMORES
+
+## Cursed or Treasure, Cursed will overwrite treasure, We recommend to not touch this section
+Cursed: false
+Treasure: true
+
