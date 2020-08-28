@@ -1,4 +1,5 @@
 Version: '3.0'
-OfficialEnchnatments: 10
-UnofficialEnchnatments: 0
-TotalEnchnatments: 10
+Enchantments:
+  Official: 10
+  Unofficial: 0
+  Total: 10
