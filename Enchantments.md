@@ -4,10 +4,10 @@ These enchantments were made by AGMDevelopment team.
 * CriticalShot-3.0  
 * EnderShot-3.0  
 * ExplosiveShot-3.0  
-* Lifesteal-3.0  
+* LifeSteal-3.0  
 * Nauseous-3.0  
 * ShadowStrike-3.0  
-* Slimness-3.0  
+* Slimeness-3.0  
 * Soulbound-3.0  
 * Toxic-3.0  
 # Unofficial Enchantments
