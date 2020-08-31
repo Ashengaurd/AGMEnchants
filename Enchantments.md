@@ -9,6 +9,7 @@ These enchantments were made by AGMDevelopment team.
 * ShadowStrike-3.0  
 * Slimeness-3.0  
 * Soulbound-3.0  
+* SpawnerSilker-1.0
 * Toxic-3.0  
 # Unofficial Enchantments
 These enchantments were not made by AGMDevelopment, We don't take any responsibility for following enchantments.  
