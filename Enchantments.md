@@ -8,7 +8,7 @@ These enchantments were made by AGMDevelopment team.
 * Nauseous-3.0  
 * ShadowStrike-3.0  
 * Slimeness-3.0  
-* Soulbound-3.0  
+* Soulbound-3.1  
 * SpawnerSilker-1.0
 * Toxic-3.0  
 # Unofficial Enchantments
