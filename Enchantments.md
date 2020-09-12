@@ -5,7 +5,9 @@ These enchantments were made by AGMDevelopment team.
 * EnderShot-3.0  
 * ExplosiveShot-3.0  
 * LifeSteal-3.0  
+* Molten-1.0  
 * Nauseous-3.0  
+* Replanter-1.0  
 * ShadowStrike-3.0  
 * Slimeness-3.0  
 * Soulbound-3.1  
