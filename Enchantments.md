@@ -2,6 +2,7 @@
 These enchantments were made by AGMDevelopment team.  
 * Beheading-3.0  
 * CriticalShot-3.0  
+* DeathEscaper-1.0
 * EnderShot-3.0  
 * ExplosiveShot-3.0  
 * LifeSteal-3.0  
